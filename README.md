@@ -147,3 +147,9 @@ It does not provide professional financial advice. Stock trading involves substa
 - Add structured JSON output.
 - Add report download functionality.
 - Add better validation and error handling.
+
+## Author
+
+Arun Arumugam
+
+AI/ML Engineer | Python | Machine Learning | Deep Learning | NLP | Generative AI | RAG
